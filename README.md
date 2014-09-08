@@ -1,7 +1,8 @@
 Numbrix
 =======
-This code is for a game created as part of my Graduate Coursework for Artificial Intelligence at the University of FLorida.
+This code is for a game created as part of my Graduate Coursework for Artificial Intelligence at the University of FLorida. 
 
+Language Used: Common Lisp
 Dated: 11/29/2013
 
 CONTENTS
